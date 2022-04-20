@@ -10,7 +10,10 @@ Using both linear regression and summary analysis we can see there is no statist
 ## Summary Statistics on Suspension Coils
 The statistical analysis for the suspension coils is as follows:
 
-![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/MPG.png)
+![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/PSI_Summary.png)
+
+And the statistics for the Lot Summary:
+
+![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/Lot_Summary.png)
 
 
-![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/MPG.png)
