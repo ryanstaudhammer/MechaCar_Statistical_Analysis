@@ -17,7 +17,6 @@ And the statistics for the Lot Summary:
 ![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/Lot_Summary.png)
 
 ## T-Tests on Suspension Coils
+The results for the t-tests are as follows:
 
-
-
-
+![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/T-tests.png)
