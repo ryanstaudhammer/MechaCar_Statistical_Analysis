@@ -6,3 +6,11 @@ We analyzed five components that could affect the overall miles per gallon (MPG)
 Using both linear regression and summary analysis we can see there is no statistical relevance with regard to the previously listed factors in determining fuel efficiency. 
 
 ![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/MPG.png)
+
+## Summary Statistics on Suspension Coils
+The statistical analysis for the suspension coils is as follows:
+
+![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/MPG.png)
+
+
+![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/MPG.png)
