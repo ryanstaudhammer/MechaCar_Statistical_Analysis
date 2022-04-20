@@ -20,3 +20,10 @@ And the statistics for the Lot Summary:
 The results for the t-tests are as follows:
 
 ![](https://github.com/ryanstaudhammer/MechaCar_Statistical_Analysis/blob/main/Images/T-tests.png)
+
+## Study Design: MechaCar vs Competition
+In this section we examine the MechaCar versus competition. 
+- One of the metrics to be tested in the spoiler angle.
+- One way to do this is to set up a statistical analysis to see if a null value will determine any statistical relevance. If the null hypothesis is true, we ought to reject our hypothesis.
+- One statistical test we could use is comparing p-values
+- To use a p-value test, we must rejected if the p-value is below 0.05 
